@@ -1,0 +1,7 @@
+13:34:43.890 [main] INFO  com.mainProject.testCases.BaseClass - url is opened
+13:34:44.011 [main] INFO  com.mainProject.testCases.BaseClass - User name entered
+13:34:44.083 [main] INFO  com.mainProject.testCases.BaseClass - Password entered
+13:34:45.834 [main] INFO  com.mainProject.testCases.BaseClass - Submit button clicked
+13:35:22.258 [main] INFO  com.mainProject.testCases.BaseClass - url is opened
+13:35:22.340 [main] INFO  com.mainProject.testCases.BaseClass - User name is provided
+13:35:22.411 [main] INFO  com.mainProject.testCases.BaseClass - Passsword is provided

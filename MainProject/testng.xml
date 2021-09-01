@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5" >
+
+<listeners>
+	<listener class-name="com.mainProject.utilities.Listeners"/>
+</listeners>
+
+  <test name="Tests">
+  	<parameter name="browser" value="chrome"/>
+    <classes>
+    
+    <class name="com.mainProject.testCases.BaseClass"/>
+     <class name="com.mainProject.testCases.TC_LoginTest_001"/>
+      <class name="com.mainProject.testCases.fbLogintTest"/>  
+<!--      <class name="com.mainProject.testCases.TC_LoginTest_002"/> -->
+     <class name="com.mainProject.testCases.LoginTestDemo"/>   
+     <class name="com.mainProject.testCases.NewCustomerTest"/>  
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

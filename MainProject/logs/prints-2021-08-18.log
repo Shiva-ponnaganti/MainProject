@@ -1,0 +1,12 @@
+15:13:56.412 [TestNG-tests-1] INFO  com.mainProject.testCases.BaseClass - url is opened
+15:13:56.505 [TestNG-tests-1] INFO  com.mainProject.testCases.BaseClass - User name entered
+15:13:56.531 [TestNG-tests-1] INFO  com.mainProject.testCases.BaseClass - Password entered
+15:13:57.639 [TestNG-tests-1] INFO  com.mainProject.testCases.BaseClass - Submit button clicked
+16:42:37.484 [TestNG-tests-1] INFO  com.mainProject.testCases.BaseClass - url is opened
+16:42:37.577 [TestNG-tests-1] INFO  com.mainProject.testCases.BaseClass - User name entered
+16:42:37.608 [TestNG-tests-1] INFO  com.mainProject.testCases.BaseClass - Password entered
+16:42:41.921 [TestNG-tests-1] INFO  com.mainProject.testCases.BaseClass - Submit button clicked
+16:45:27.929 [TestNG-test=Test-1] INFO  com.mainProject.testCases.BaseClass - url is opened
+14:34:45.219 [main] INFO  com.mainProject.testCases.BaseClass - url is opened
+14:34:45.464 [main] INFO  com.mainProject.testCases.BaseClass - User name is provided
+14:34:45.628 [main] INFO  com.mainProject.testCases.BaseClass - Passsword is provided
